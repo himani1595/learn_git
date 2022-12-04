@@ -1,2 +1,5 @@
 "This is a sample code file for my git demo"
-
+if x == 5:
+    y = 0
+else:
+    y = 1
